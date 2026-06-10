@@ -179,7 +179,8 @@ local AdminList = {
 "Ramen037",
 "hello1234_vietanh",
 "Void_Ice201495",
-"Rip_hiha8509"
+"Rip_hiha8509",
+"hlasaovayba"
 }
 local function IsAdmin()
     for _, adminName in pairs(AdminList) do
